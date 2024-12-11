@@ -18,5 +18,4 @@ public enum MemberExceptions {
   public MemberTaskException get(){
     return memberTaskException;
   }
-  
 }
